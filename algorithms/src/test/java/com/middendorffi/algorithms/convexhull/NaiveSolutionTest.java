@@ -10,6 +10,7 @@ import java.util.SortedSet;
 /**
  * Created by hdavis on 13/07/2017.
  */
+@Ignore
 public class NaiveSolutionTest {
 
     private NaiveSolution testObject;
